@@ -35,7 +35,7 @@ body,dd,dl,dt,form,h1,h2,h3,h4,h5,h6,html,li,ol,p,table,ul {
 	width: 100%;
 	text-align: center;
 	background-color: lavender;
-	height: 25px;
+	height: 35px;
 }
 
 #questions {
@@ -97,15 +97,16 @@ body,dd,dl,dt,form,h1,h2,h3,h4,h5,h6,html,li,ol,p,table,ul {
 #bottom-bar {
 	position: fixed;
 	bottom: 0;
-	height: 15px;
+	height: 35px;
 	background-color: dimgrey;
 	width: 100%;
-	padding: 10px;
+	padding: 10px 0;
 	border-top: 2px solid white;
 	font-weight: bold;
 	display: grid;
 	grid-auto-flow: column;
 	grid-gap: 0.5em;
+	justify-content: space-around;
 }
 
 .input-radio-div {
@@ -127,6 +128,7 @@ body,dd,dl,dt,form,h1,h2,h3,h4,h5,h6,html,li,ol,p,table,ul {
 .bottombar-button {
 	cursor: pointer;
 	width: fit-content;
+	height: 35px;
 }
 
 .timer-inactive {
@@ -136,6 +138,7 @@ body,dd,dl,dt,form,h1,h2,h3,h4,h5,h6,html,li,ol,p,table,ul {
 #history-button {
 	float: right;
 	cursor: pointer;
+	height: 35px;
 }
 
 #popup {
@@ -161,6 +164,9 @@ body,dd,dl,dt,form,h1,h2,h3,h4,h5,h6,html,li,ol,p,table,ul {
 	cursor: pointer;
 	height: fit-content;
 	width: 100%;
+	height: 50px;
+	font-size: 1.5em;
+	font-weight: bold;
 }
 
 .history-popup-screen {
