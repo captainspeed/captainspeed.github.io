@@ -27,6 +27,10 @@ body,dd,dl,dt,form,h1,h2,h3,h4,h5,h6,html,li,ol,p,table,ul {
 	margin-bottom: 100px;
 }
 
+#contents {
+	border-bottom: 5px solid cornflowerblue;
+}
+
 #contents-list {
 	width: 100%;
 	text-align: center;
@@ -71,11 +75,10 @@ body,dd,dl,dt,form,h1,h2,h3,h4,h5,h6,html,li,ol,p,table,ul {
 #top-bar {
 	position: fixed;
 	width: 100%;
-	border-bottom: 5px solid cornflowerblue;
 	z-index: 1;
 }
 
-.question-text {
+.question-id {
 	font-weight: bold;
 	color: lightsteelblue;
 	padding-bottom: 5px;
@@ -84,6 +87,11 @@ body,dd,dl,dt,form,h1,h2,h3,h4,h5,h6,html,li,ol,p,table,ul {
 .submit {
 	margin-top: 10px;
 	cursor: pointer;
+	display: none;
+}
+
+.submit-allowed {
+	display: block;
 }
 
 #bottom-bar {
@@ -123,4 +131,67 @@ body,dd,dl,dt,form,h1,h2,h3,h4,h5,h6,html,li,ol,p,table,ul {
 
 .timer-inactive {
 	background-color: gold;
+}
+
+#history-button {
+	float: right;
+	cursor: pointer;
+}
+
+#popup {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	z-index: 2;
+	display: none;
+	overflow-y: auto;
+	background-color: black;
+}
+
+.popup-open {
+	display: flex !important;
+	flex-direction: column;
+}
+
+.disable-scroll {
+	overflow: hidden;
+}
+
+.popup-btn {
+	cursor: pointer;
+	height: fit-content;
+	width: 100%;
+}
+
+.history-popup-screen {
+	color: white;
+	text-align: center;
+	margin-top: 50px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	font-size: 1.5em;
+}
+
+.history-popup-screen-content {
+	display: flex;
+	justify-content: space-evenly;
+	flex-direction: row;
+	width: 100%;
+}
+
+.history-table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.history-td, .history-th {
+	border: 1px solid #dddddd;
+	padding: 8px;
+}
+
+.history-tr {
+	background-color: crimson;
 }
