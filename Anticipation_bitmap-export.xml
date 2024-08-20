@@ -1,8 +1,8 @@
 <font>
-	<info face="D:\WORK\GAMES\WM_Wild_Moonsters\Art\Psd\Bitmaps\Anticipation_bitmap-export" size="613" />
+	<info face="Anticipation_bitmap-export" size="613" />
 	<common lineHeight="613" scaleW="1605" scaleH="1796" pages="1" />
 	<pages>
-		<page id="0" file="D:\WORK\GAMES\WM_Wild_Moonsters\Art\Psd\Bitmaps\Anticipation_bitmap-export.png" />
+		<page id="0" file="Anticipation_bitmap-export.png" />
 	</pages>
 	<chars count="21">
 		<char id="49" x="642" y="449" width="320" height="448" xoffset="0" yoffset="165" xadvance="348" /><!-- 1 -->
