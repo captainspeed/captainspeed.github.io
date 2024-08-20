@@ -1,0 +1,32 @@
+<font>
+	<info face="D:\WORK\GAMES\WM_Wild_Moonsters\Art\Psd\Bitmaps\Anticipation_bitmap-export" size="613" />
+	<common lineHeight="613" scaleW="1605" scaleH="1796" pages="1" />
+	<pages>
+		<page id="0" file="D:\WORK\GAMES\WM_Wild_Moonsters\Art\Psd\Bitmaps\Anticipation_bitmap-export.png" />
+	</pages>
+	<chars count="21">
+		<char id="49" x="642" y="449" width="320" height="448" xoffset="0" yoffset="165" xadvance="348" /><!-- 1 -->
+		<char id="50" x="963" y="449" width="320" height="448" xoffset="0" yoffset="165" xadvance="348" /><!-- 2 -->
+		<char id="51" x="963" y="0" width="320" height="448" xoffset="0" yoffset="165" xadvance="348" /><!-- 3 -->
+		<char id="52" x="963" y="1347" width="320" height="448" xoffset="0" yoffset="165" xadvance="348" /><!-- 4 -->
+		<char id="53" x="963" y="898" width="320" height="448" xoffset="0" yoffset="165" xadvance="348" /><!-- 5 -->
+		<char id="54" x="642" y="0" width="320" height="448" xoffset="0" yoffset="165" xadvance="348" /><!-- 6 -->
+		<char id="55" x="1284" y="0" width="320" height="448" xoffset="0" yoffset="165" xadvance="348" /><!-- 7 -->
+		<char id="56" x="642" y="1347" width="320" height="448" xoffset="0" yoffset="165" xadvance="348" /><!-- 8 -->
+		<char id="57" x="642" y="898" width="320" height="448" xoffset="0" yoffset="165" xadvance="348" /><!-- 9 -->
+		<char id="48" x="321" y="1347" width="320" height="448" xoffset="0" yoffset="165" xadvance="348" /><!-- 0 -->
+		<char id="46" x="1284" y="449" width="208" height="448" xoffset="0" yoffset="165" xadvance="236" /><!-- . -->
+		<char id="44" x="1284" y="898" width="208" height="448" xoffset="0" yoffset="165" xadvance="236" /><!-- , -->
+		<char id="88" x="321" y="898" width="320" height="448" xoffset="0" yoffset="165" xadvance="348" /><!-- X -->
+		<char id="43" x="321" y="449" width="320" height="448" xoffset="0" yoffset="165" xadvance="348" /><!-- + -->
+		<char id="75" x="321" y="0" width="320" height="448" xoffset="0" yoffset="165" xadvance="348" /><!-- K -->
+		<char id="77" x="0" y="1347" width="320" height="448" xoffset="0" yoffset="165" xadvance="348" /><!-- M -->
+		<char id="66" x="0" y="898" width="320" height="448" xoffset="0" yoffset="165" xadvance="348" /><!-- B -->
+		<char id="36" x="0" y="449" width="320" height="448" xoffset="0" yoffset="165" xadvance="348" /><!-- $ -->
+		<char id="8364" x="0" y="0" width="320" height="448" xoffset="0" yoffset="165" xadvance="348" /><!-- € -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="195" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="1560" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>
